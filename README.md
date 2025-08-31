@@ -16,6 +16,21 @@ pip install numpy
 pip install scikit-learn
 pip install streamlit
 ```
+### **Usage**
+
+To use this project, follow these steps: \
+
+*Clone the repository:* git clone https://github.com/Divine-reveire/Diabetes-Prediction-Model.git
+*Install the required packages:* pip install -r requirements.txt
+*Run the Streamlit app:* streamlit run app.py
+*Access the app in your browser at* http://localhost:8501
+
+To use this project, follow these steps:
+
+Clone the repository: git clone https://github.com/gopiashokan/Diabetes-Prediction-using-Machine-Learning.git
+Install the required packages: pip install -r requirements.txt
+Run the Streamlit app: streamlit run app.py
+Access the app in your browser at http://localhost:8501
 ## **Features :~**
 
 ### Dataset Source--
