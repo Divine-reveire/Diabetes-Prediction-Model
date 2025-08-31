@@ -16,19 +16,6 @@ pip install numpy
 pip install scikit-learn
 pip install streamlit
 ```
-### **Usage**
-
-To use this project, follow these steps: 
-
-*Clone the repository:* 
-```git clone https://github.com/Divine-reveire/Diabetes-Prediction-Model.git``` \
-*Install the required packages:* 
-```pip install -r requirements.txt ``` \
-*Run the Streamlit app:* 
-```streamlit run app.py``` \
-*Access the app in your browser at* 
-```http://localhost:8501```
-
 ## **Features :~**
 
 ### Dataset Source--
@@ -52,5 +39,3 @@ The predictive model has demonstrated exceptional performance, boasting an accur
 This Streamlit application offers an intuitive and user-friendly interface. Users can effortlessly input their medical and demographic information, including gender, age, hypertension, heart diseases, smoking history, BMI, HbA1c level, and blood glucose level.
 After providing these details, the application swiftly processes the information and generates a diabetes risk prediction based on the input data. This enables users to quickly assess their potential risk of developing diabetes.
 ![streamlit_application](https://github.com/user-attachments/assets/7977db39-d39f-4df5-bb04-449f70bcaa79)
-
-
